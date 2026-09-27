@@ -34,7 +34,7 @@ not new legislation or new spending.
 
 ## Files
 
-- [`Pride_for_All_Policy_Brief.pdf`](./Pride_for_All_Policy_Brief.pdf) — the
+- [`Pride_for_All_Policy_Brief`](./Pride_for_All_Policy_Brief-3.pdf) — the
   full brief
 
 ## Note on scope
